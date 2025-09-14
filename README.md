@@ -1,2 +1,6 @@
 # ElectronWaveguideSimulator
 A program which incorporates an energy level calculator, wavefuction generator, and reproduction of Figures B &amp; C of the ACS publication, "Quantized Ballistic Transport of Electrons and Electron Pairs in LaAlO3/SrTiO3 Nanowires" for electron waveguides created on the LaAlO3/SrAlO3 heterostructure.
+
+This project was completed throughout the "Electron Waveguide Tutorial" given by Jeremy Levy of the University of Pittsburgh in the Levy Lab. This tutorial covered some basic quantum mechanics topics including transformations, particle in a box, harmonic oscillators, momentum and energy operators, momentum and energy eigenvalues, electron waveguide wavefuction and energy function, wavefuction hamiltonians, quantized conductance, and quantized ballistic transport. Throughout the tutorial and in this project, these concepts were applied to create the overall final product. The motive for this tutorial is to supplement research in the Levy Lab and help first/second year undergraduates understand elementary quantum mechanics and the basics of electron waveguides, a subject that is highly involved in today's physics research.
+
+The figures reproduced in this program are published in [this paper](https://pubs.acs.org/doi/10.1021/acs.nanolett.8b01614).
